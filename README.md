@@ -6,7 +6,7 @@ This repository houses the codebase and documentation for the decentralized AI p
 
 ### 1. Word_Vector_Similarity.ipynb
 
-This notebook explores the Word Vector Similarity module, which quantifies the effectiveness of the LLM in generating relevant responses. It employs a method based on word vector similarities, enhancing the precision of AI-generated responses to prompts.
+This notebook explores the Word Vector Similarity module, which quantifies the effectiveness of the LLM in generating relevant responses. It employs a method based on word vector similarities, enhancing the precision of AI-generated prompt responses.
 
 ### 2. FITNESS_FUNCTION_GENETIC_ALGORITHM_CHALLENGE_04_OPENMESH(1).ipynb
 
@@ -27,7 +27,7 @@ To get started with the project and explore the notebooks, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Hackathon_Gen_Algo.git
+   git clone https://github.com/mohdsaadoon/Hackathon_Gen_Algo.git
 
 
 
