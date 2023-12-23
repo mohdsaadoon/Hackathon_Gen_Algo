@@ -1,6 +1,6 @@
 # Hackathon_Gen_Algo Repository
 
-This repository houses the codebase and documentation for the decentralized AI project undertaken during [Hackathon Name]. The project focuses on Genetic Algorithms, Large Language Models (LLM), and word vector similarity to advance decentralized AI training and prompt engineering.
+This repository houses the codebase and documentation for the decentralized AI project undertaken during the Openmesh Sydney OpenD/I Hackathon. The project focuses on Genetic Algorithms, Large Language Models (LLM), and word vector similarity to advance decentralized AI training and prompt engineering.
 
 ## Python Notebooks
 
